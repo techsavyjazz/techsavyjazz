@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arshad.
 - 👀 I’m interested in learning and developing new things.
-- 🌱 I’m currently learning Full Stack Developemt.
-- 💞️ I’m looking to collaborate on Web Dev.
+- 🌱 I’m currently learning Web Developemt.
+- 💞️ I’m looking to collaborate on Projects.
 - 📫 Reach me Tehsavyjazz@gmail.com
 - 😄 Pronouns: Mr. Arshad.
 - ⚡ Fun fact: Live in present.
